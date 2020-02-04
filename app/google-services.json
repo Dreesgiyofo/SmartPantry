@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554017027090",
+    "firebase_url": "https://iotproject-1579688246901.firebaseio.com",
+    "project_id": "iotproject-1579688246901",
+    "storage_bucket": "iotproject-1579688246901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554017027090:android:7b0175653c3dbedb80d4cb",
+        "android_client_info": {
+          "package_name": "com.example.smart_pantry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554017027090-21m6r7erk6tala9qo3go81uv2q1jv87j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_pantry",
+            "certificate_hash": "cc1e7f071d8b064252c423226367fb25c5bf906a"
+          }
+        },
+        {
+          "client_id": "554017027090-4sh919vffevj1stmas862c0emik4153l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppdXwOZ9Lok-Aecna7bdyIfyMbPQH32A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554017027090-4sh919vffevj1stmas862c0emik4153l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
